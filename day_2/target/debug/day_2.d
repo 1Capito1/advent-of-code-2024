@@ -1,0 +1,1 @@
+/home/setht/Documents/code/rust/advent-of-code-2024/day_2/target/debug/day_2: /home/setht/Documents/code/rust/advent-of-code-2024/day_2/src/main.rs /home/setht/Documents/code/rust/advent-of-code-2024/day_2/src/solution.rs
